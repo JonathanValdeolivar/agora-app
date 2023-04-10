@@ -1,5 +1,4 @@
-#Agora
-> Web Aplication
+# Agora
+>Web Aplication
 ### Authors
-Jonathan Chavez Valdeolivar
-# agora-app
+UNICA

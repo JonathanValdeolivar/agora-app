@@ -1,5 +1,5 @@
 #Agora
 > Web Aplication
 ### Authors
-Jonathan Chavez Valdeolivar# agora-app
+Jonathan Chavez Valdeolivar
 # agora-app
